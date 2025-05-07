@@ -1,0 +1,45 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+
+# Backup & log files
+*.log
+*.bak
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Windows image thumbnail cache
+Thumbs.db
+
+# User-specific files
+*.userosscache
+*.sln.docstates
+
+# dotCover
+*.dotCover
+
+# Visual Studio Code workspace history
+.history/
+
+# Local test results
+TestResults/

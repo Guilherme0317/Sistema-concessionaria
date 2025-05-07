@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|c:\\users\\natal\\onedrive\\documentos\\c#projetos\\projeto_enir\\projeto_enir\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\editar_excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:editar_excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\editar_excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:editar_excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:56:33.132Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\cadastro.cs",
+              "RelativeDocumentMoniker": "cadastro.cs",
+              "ToolTip": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\cadastro.cs [Design]",
+              "RelativeToolTip": "cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:20:35.721Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:34:28.53Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "usuario.cs",
+              "DocumentMoniker": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\usuario.cs",
+              "RelativeDocumentMoniker": "usuario.cs",
+              "ToolTip": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\usuario.cs",
+              "RelativeToolTip": "usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:40:38.364Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "editar_excluir.cs",
+              "DocumentMoniker": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\editar_excluir.cs",
+              "RelativeDocumentMoniker": "editar_excluir.cs",
+              "ToolTip": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\editar_excluir.cs",
+              "RelativeToolTip": "editar_excluir.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAASwBoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:00:13.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "editar_excluir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\editar_excluir.cs",
+              "RelativeDocumentMoniker": "editar_excluir.cs",
+              "ToolTip": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\editar_excluir.cs [Design]",
+              "RelativeToolTip": "editar_excluir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:59:58.77Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwIYBAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:21:50.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAvwF8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:41:28.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-08T21:51:58.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\cadastro.cs",
+              "RelativeDocumentMoniker": "cadastro.cs",
+              "ToolTip": "C:\\Users\\natal\\OneDrive\\Documentos\\C#projetos\\Projeto_ENIR\\Projeto_ENIR\\cadastro.cs",
+              "RelativeToolTip": "cadastro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADgvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:28:50.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\pesquisa_transacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:pesquisa_transacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|c:\\users\\guilh\\downloads\\projeto_enir\\pesquisa_transacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:pesquisa_transacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\historicodecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:historicodecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\menudecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:menudecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\compra_veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:compra_veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\gestao_funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:gestao_funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\gestao_funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:gestao_funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\editar_excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:editar_excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\editar_excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:editar_excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\menudecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:menudecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\cadastroveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:cadastroveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\cadastroveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:cadastroveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\historicodecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:historicodecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\consulta_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:consulta_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\compra_veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:compra_veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\edita_excluirveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:edita_excluirveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\edita_excluirveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:edita_excluirveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\consulta_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:consulta_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE20586-5D51-450F-95F0-5F36FAD6D4C7}|Projeto_ENIR.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:56:33.132Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:34:28.53Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "usuario.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\usuario.cs",
+              "RelativeDocumentMoniker": "usuario.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\usuario.cs",
+              "RelativeToolTip": "usuario.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:40:38.364Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Historicodecompra.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Historicodecompra.cs",
+              "RelativeDocumentMoniker": "Historicodecompra.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Historicodecompra.cs",
+              "RelativeToolTip": "Historicodecompra.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:57:49.172Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenudeCompra.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\MenudeCompra.cs",
+              "RelativeDocumentMoniker": "MenudeCompra.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\MenudeCompra.cs",
+              "RelativeToolTip": "MenudeCompra.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAJEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:54:43.826Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Compra_veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Compra_veiculo.cs",
+              "RelativeDocumentMoniker": "Compra_veiculo.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Compra_veiculo.cs",
+              "RelativeToolTip": "Compra_veiculo.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:52:52.194Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAlwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:41:28.282Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\cadastro.cs",
+              "RelativeDocumentMoniker": "cadastro.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\cadastro.cs",
+              "RelativeToolTip": "cadastro.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAA3wIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:28:50.489Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pesquisa_transacoes.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Pesquisa_transacoes.cs",
+              "RelativeDocumentMoniker": "Pesquisa_transacoes.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Pesquisa_transacoes.cs",
+              "RelativeToolTip": "Pesquisa_transacoes.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAgwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:38:30.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pesquisa_transacoes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Pesquisa_transacoes.cs",
+              "RelativeDocumentMoniker": "Pesquisa_transacoes.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Pesquisa_transacoes.cs [Design]",
+              "RelativeToolTip": "Pesquisa_transacoes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:32:28.735Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAA9wE4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:04:14.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "editar_excluir.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\editar_excluir.cs",
+              "RelativeDocumentMoniker": "editar_excluir.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\editar_excluir.cs",
+              "RelativeToolTip": "editar_excluir.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAIA3wDcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:00:13.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "edita_excluirVeiculo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\edita_excluirVeiculo.cs",
+              "RelativeDocumentMoniker": "edita_excluirVeiculo.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\edita_excluirVeiculo.cs [Design]",
+              "RelativeToolTip": "edita_excluirVeiculo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:03:45.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "edita_excluirVeiculo.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\edita_excluirVeiculo.cs",
+              "RelativeDocumentMoniker": "edita_excluirVeiculo.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\edita_excluirVeiculo.cs",
+              "RelativeToolTip": "edita_excluirVeiculo.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAwJoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:14:03.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:00:15.288Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\cadastro.cs",
+              "RelativeDocumentMoniker": "cadastro.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\cadastro.cs [Design]",
+              "RelativeToolTip": "cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:20:35.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-16T23:35:25.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Historicodecompra.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Historicodecompra.cs",
+              "RelativeDocumentMoniker": "Historicodecompra.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Historicodecompra.cs [Design]",
+              "RelativeToolTip": "Historicodecompra.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:52:53.775Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CadastroVeiculo.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\CadastroVeiculo.cs",
+              "RelativeDocumentMoniker": "CadastroVeiculo.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\CadastroVeiculo.cs",
+              "RelativeToolTip": "CadastroVeiculo.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:25:15.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CadastroVeiculo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\CadastroVeiculo.cs",
+              "RelativeDocumentMoniker": "CadastroVeiculo.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\CadastroVeiculo.cs [Design]",
+              "RelativeToolTip": "CadastroVeiculo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:23:41.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Compra_veiculo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Compra_veiculo.cs",
+              "RelativeDocumentMoniker": "Compra_veiculo.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Compra_veiculo.cs [Design]",
+              "RelativeToolTip": "Compra_veiculo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:44:32.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Consulta_usuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Consulta_usuario.cs",
+              "RelativeDocumentMoniker": "Consulta_usuario.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Consulta_usuario.cs [Design]",
+              "RelativeToolTip": "Consulta_usuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:51:22.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenudeCompra.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\MenudeCompra.cs",
+              "RelativeDocumentMoniker": "MenudeCompra.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\MenudeCompra.cs [Design]",
+              "RelativeToolTip": "MenudeCompra.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:48:28.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADQBAAAAAAAAAAAjwD0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:21:50.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "editar_excluir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\editar_excluir.cs",
+              "RelativeDocumentMoniker": "editar_excluir.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\editar_excluir.cs [Design]",
+              "RelativeToolTip": "editar_excluir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:59:58.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gestao_Funcionarios.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Gestao_Funcionarios.cs",
+              "RelativeDocumentMoniker": "Gestao_Funcionarios.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Gestao_Funcionarios.cs",
+              "RelativeToolTip": "Gestao_Funcionarios.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAawEAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:28:20.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gestao_Funcionarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Gestao_Funcionarios.cs",
+              "RelativeDocumentMoniker": "Gestao_Funcionarios.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Gestao_Funcionarios.cs [Design]",
+              "RelativeToolTip": "Gestao_Funcionarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:15:07.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Consulta_usuario.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Consulta_usuario.cs",
+              "RelativeDocumentMoniker": "Consulta_usuario.cs",
+              "ToolTip": "C:\\Users\\guilh\\Downloads\\Projeto_ENIR\\Consulta_usuario.cs",
+              "RelativeToolTip": "Consulta_usuario.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAtwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:52:08.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
